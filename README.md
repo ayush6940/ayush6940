@@ -1,7 +1,8 @@
 # Hi there 👋, I'm Ayush Johari
 
-🎯 I am a Software Developer passionate about building impactful and scalable applications.
-
+🎯 I am a Back-End Developer with 2 years of experience in building user-centric and visually appealing web applications.
+My expertise lies in: Java, MySQL, HTML, CSS, JavaScript, etc.
+Data Structures and Algorithms (DSA), API development, database management, performance optimization, security best practices, version control systems, etc.
 ---
 
 ### 🏆 GitHub Trophies
