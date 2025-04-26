@@ -6,7 +6,8 @@ Data Structures and Algorithms (DSA), API development, database management, perf
 ---
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ayush6940&theme=gruvbox&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayush6940&theme=onedark&row=1&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
