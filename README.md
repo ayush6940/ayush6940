@@ -1,31 +1,44 @@
 # Hi there 👋, I'm Ayush Johari
-I am a Front-End Developer (or whatever you want to write) with experience in building user-centric and visually appealing web applications.
 
-### My Expertise Includes:
-- HTML, CSS, Tailwind CSS, JavaScript, React.js
-- UI/UX design, Responsive Design
-- Git, Testing, Cross-browser Compatibility
-- Backend: Node.js, Express.js, MongoDB
-- Databases: MySQL
+🎯 I am a Software Developer passionate about building impactful and scalable applications.
+
+---
+
+### 🛠️ My Expertise Includes:
+- Java, MySQL, JSP-Servlets
+- JavaScript, Postman
+- Data Structures and Algorithms (DSA)
 
 ---
 
 ### 📫 How to reach me:
 - Email: aayushjohari@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/ayush-johari-56879b243/)
-- [LeetCode](https://leetcode.com/your-leetcode-id/)
-- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/your-gfg-id/)
+- [LeetCode](https://leetcode.com/johari_rox02/)
+- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/johari_rox02/)
 
 ---
 
 ### ⚡ Fun fact:
-I am from VIT Bhopal!
+I am from VIT Bhopal and passionate about coding, web development, and problem-solving!
 
 ---
 
-### 🛠️ Languages and Tools:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" /> 
-... add more icons
+### 🔧 Languages and Tools:
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush6940&show_icons=true&theme=radical)
+
+---
+
