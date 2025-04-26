@@ -16,7 +16,7 @@
 - [LinkedIn](https://www.linkedin.com/in/ayush-johari-56879b243/)
 - [LeetCode](https://leetcode.com/johari_rox02/)
 - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/johari_rox02/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayushjohari@gmail.com)
+-  [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayushjohari@gmail.com)
 
 ---
 
